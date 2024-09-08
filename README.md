@@ -1,3 +1,3 @@
-﻿# Stock-prediction-using-machine-learning-model-LSTM-
+﻿# Stock-prediction-using-ML-model-LSTM
  
-Model where the price of the selected stock is predicted usingLSTM model on the basis of moving average of the stocks.
+Model where the price of stock is predicted using LSTM model on the basis of moving average of the stocks.
